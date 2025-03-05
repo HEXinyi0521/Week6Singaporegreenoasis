@@ -405,7 +405,6 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Central Natrue Reserve',
-            image: './asset/seletar.JPG',
             description: 'Zoom in, we can take a look at the Central Water Reserve. It is a scenic area offering beautiful views of nature. <br><br> Our mapping shows the popular routes for cycling and hiking, with well-maintained trails surrounding the reservoir. Visitors can enjoy the peaceful environment while engaging in outdoor activities amidst lush greenery.<br><br><img src="images/legend5.png" style="height:100%; width:100px;"></img>',
             location: {
                 center: [103.80664, 1.40085],
